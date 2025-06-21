@@ -1,0 +1,45 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+dl_env/
+env/
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# FastAPI logs / artifacts
+*.log
+
+# Model artifacts
+*.keras
+*.h5
+saved_models/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+frontend/build/
+frontend/dist/
+
+# Environment variables
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# System files
+Thumbs.db
