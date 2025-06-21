@@ -26,13 +26,6 @@ The **React + Tailwind** frontend lets growers drag‑and‑drop leaf photos
 
 ---
 
-## Demo
-
-<p align="center">
-  <img src="assets/demo.gif" alt="live preview" width="600">
-</p>
-
----
 
 ## Project Structure
 
